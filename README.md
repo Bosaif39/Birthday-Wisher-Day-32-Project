@@ -1,4 +1,4 @@
-# **Birthday Reminder Email Sender**
+# **Birthday Wisher Email Sender**
 
 ## **Overview:**
 This is the Day 32 project from the 100 Days of Code: The Complete Python Pro Bootcamp.
