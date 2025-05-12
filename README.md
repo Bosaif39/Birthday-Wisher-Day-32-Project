@@ -13,7 +13,6 @@ This is a Python-based application that sends birthday reminders via email. It c
 5. The program uses SMTP to send the email securely.
 
 ## **Features:**
-- **Birthday Lookup**
 - **Personalized Birthday Greetings**
 - **Email Sending**
 - **Secure Connection**
