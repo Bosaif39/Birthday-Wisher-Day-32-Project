@@ -17,13 +17,6 @@ This is a Python-based application that sends birthday reminders via email. It c
 - **Email Sending**
 - **Secure Connection**
 
-## **Requirements:**
-- **Python 3.x**
-- **pandas** 
-- **random** 
-- **smtplib** 
-- **CSV file (`birthdays.csv`)**: Should contain columns like `month`, `day`, `name`, and `email`.
-- **Letter Templates**: A folder named `letter_templates` containing `letter_1.txt`, `letter_2.txt`, and `letter_3.txt` for randomly selected greetings.
 
 ## **File Formats:**
 
@@ -36,3 +29,11 @@ This is a Python-based application that sends birthday reminders via email. It c
    * Replace `MY_EMAIL` and `MY_PASSWORD` with your actual email credentials.
    * Make sure to allow access to less secure apps or use an **App Password** if using services like Gmail.
 
+
+## **Requirements:**
+- **Python 3.x**
+- `pandas` 
+- `random` 
+- `smtplib` 
+- **CSV file (`birthdays.csv`)**: Should contain columns like `month`, `day`, `name`, and `email`.
+- **Letter Templates**: A folder named `letter_templates` containing `letter_1.txt`, `letter_2.txt`, and `letter_3.txt` for randomly selected greetings.
